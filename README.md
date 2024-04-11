@@ -13,10 +13,10 @@ My purpose was to explore a new language and make a fun and engaging website.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+
 VS Code
 
-{Describe the programming language that you used and any libraries.}
+
 JavaScript
 Python
 TypeScript
